@@ -18,6 +18,9 @@ pip install -r requirements.txt
 ```
 > Note: The installation may take 4~5 mins to complete.
 
+> Tested on a clean environment created by virtualenv on Ubuntu 16.04 LTS
+
+
 ## Run
 
 ```
