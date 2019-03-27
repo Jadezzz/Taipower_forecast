@@ -16,6 +16,7 @@ Type in command to install above:
 ``` 
 pip install -r requirements.txt 
 ```
+> Note: The installation may take 4~5 mins to complete.
 
 ## Run
 
