@@ -25,7 +25,7 @@ pip install -r requeirments.txt
 
 ## Result
 
-The result will store in ```submission.csv```
+The result will be stored in ```submission.csv```
 
 Example of ```submission.csv```
 ```
