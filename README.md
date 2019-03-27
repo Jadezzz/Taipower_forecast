@@ -43,5 +43,5 @@ date,peak_load(MW)
 20190403,28821
 ```
 
-## More information in notebook
+## More information about this project
 https://nbviewer.jupyter.org/github/Jadezzz/Taipower_forecast/blob/master/forecasting.ipynb
