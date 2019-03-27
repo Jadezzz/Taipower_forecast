@@ -14,7 +14,7 @@ Given past data from Taipower, predict next 7 days' 'peak load'
 Type in command to install above:
 
 ``` 
-pip install -r requeirments.txt 
+pip install -r requirements.txt 
 ```
 
 ## Run
