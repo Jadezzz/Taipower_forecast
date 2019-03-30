@@ -21,8 +21,8 @@ data['y'] = all_data['peak_load']
 m = Prophet(holidays=holidays)
 m.fit(data)
 
-# Make prediction for next 8 days
-future = m.make_future_dataframe(periods=8)
+# Make prediction for next 10 days
+future = m.make_future_dataframe(periods=10)
 
 # Predict
 forecast = m.predict(future)
